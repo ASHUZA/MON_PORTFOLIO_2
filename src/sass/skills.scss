@@ -1,0 +1,22 @@
+.skills__box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card__skills {
+    height: 12Opx;
+    width: 10Opx;
+    margin-bottom: 20px;
+}
+
+.card__skills .card-title {
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.img--skills {
+    height: 70px;
+    width: 70px;
+}
